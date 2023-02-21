@@ -16,3 +16,4 @@ int main(void)
 	} while (count < size);
 	_putchar('\n');
 	return (0);
+}
